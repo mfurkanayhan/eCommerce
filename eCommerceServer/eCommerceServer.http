@@ -1,0 +1,24 @@
+@eCommerceServer_HostAddress = http://localhost:5222
+
+POST http://localhost:5222/api/Auth/Login
+Accept: application/json
+Content-Type: application/json
+
+{
+  "email": "mfurkanayhan@gmail.com",
+  "password": "Password1234"
+}
+
+###
+
+GET https://localhost:7194/api/ShoppingCarts/GetAll
+Accept: application/json
+# Authorization: Bearer 
+
+###
+
+GET https://localhost:7194/api/Orders/GetAll
+Accept: application/json
+# Authorization: Bearer 
+
+###

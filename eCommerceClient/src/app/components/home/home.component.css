@@ -1,0 +1,14 @@
+.card-body, .card-header {
+    user-select: none;
+}
+
+.mt-2 {
+    margin-top: 8px !important;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+}
