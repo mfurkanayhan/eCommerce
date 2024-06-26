@@ -59,12 +59,12 @@ This project is a simple e-commerce application developed using Angular for the 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/mfurkanayhan/senior-dotnet-developer-roadmap.git
+    git clone https://github.com/mfurkanayhan/eCommerce.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd 07.Angular/eCommerce
+    cd eCommerce
     ```
 
 ### Backend Setup
